@@ -43,6 +43,11 @@ Smart restaurant ordering system for Bistro 92. Covers hardware simulation (ESP3
 - **Big Idea Challenge (300 Points):**  
   [👉 Open Big Idea README](https://github.com/Abhishek12105021/Techathon-Bistro92/blob/main/Application_Challenges/Big_Idea.md)
 
+## 🎥 Video Resources  
+- **Drive Link to Project Videos:**  
+  Access all project-related videos, including demos and tutorials, in one place!  
+  🔗 [**View Videos on Drive**](https://drive.google.com/)
+  
 ## 🔗 Related Repositories
 - **Backend Repository:**  
   [👉 Visit Backend Repo](https://github.com/MehemudAzad/techathon_server/tree/436807a74c2841a0d47319bf3ae050c349a84bec)
