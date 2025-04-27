@@ -46,7 +46,7 @@ Smart restaurant ordering system for Bistro 92. Covers hardware simulation (ESP3
 ## 🎥 Video Resources  
 - **Drive Link to Project Videos:**  
   Access all project-related videos, including demos and tutorials, in one place!  
-  🔗 [**View Videos on Drive**](https://drive.google.com/)
+  🔗 [**View Videos on Drive**](https://drive.google.com/file/d/1utU5ROBCA45T4xW_MgoDvRORW6xjj-PL/view?usp=sharing)
   
 ## 🔗 Related Repositories
 - **Backend Repository:**  
