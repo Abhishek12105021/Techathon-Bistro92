@@ -35,7 +35,7 @@ Smart restaurant ordering system for Bistro 92. Covers hardware simulation (ESP3
   [👉 Open Quick Fixes README](https://github.com/Abhishek12105021/Techathon-Bistro92/blob/main/Application_Challenges/Quick_Fix.md)
 
 - **Tech Tricks Challenge (450 Points):**  
-  [👉 Open Tech Tricks README](./answers/TechTricks_README.md)
+  [👉 Open Tech Tricks README](https://github.com/Abhishek12105021/Techathon-Bistro92/blob/main/Application_Challenges/Tech_Tricks.md)
 
 - **Bonus Boosters Challenge (500 Points):**  
   [👉 Open Bonus Boosters README](https://github.com/Abhishek12105021/Techathon-Bistro92/blob/main/Application_Challenges/Bonus_Booster.md)
